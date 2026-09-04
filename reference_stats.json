@@ -1,0 +1,38 @@
+{
+  "CreditScore": {
+    "min": 350,
+    "max": 850,
+    "mean": 650
+  },
+  "Age": {
+    "min": 18,
+    "max": 92,
+    "mean": 38
+  },
+  "Tenure": {
+    "min": 0,
+    "max": 10,
+    "mean": 5
+  },
+  "Balance": {
+    "min": 0.0,
+    "max": 250898.09,
+    "mean": 76485.889288
+  },
+  "EstimatedSalary": {
+    "min": 11.58,
+    "max": 199992.48,
+    "mean": 100090.239881
+  },
+  "NumOfProducts": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "Geography": [
+    "France",
+    "Germany",
+    "Spain"
+  ]
+}
